@@ -20,7 +20,6 @@ Learning, helping, developing..
 
 ### Social
 <div align="left">
-<a target="_blank" href="https://t.me/musaitbiyerde"><img alt="Telegram" src="https://img.shields.io/badge/telegram-2B2A29.svg?style=for-the-badge&logo=telegram&logoColor=EF7F1A"></a>
 <a target="_blank" href="https://www.linkedin.com/in/ahmetbozyurtt"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-2B2A29.svg?style=for-the-badge&logo=linkedin&logoColor=00a0dc"></a>
 <a target="_blank" href="https://twitter.com/ahmetveburak"><img alt="Twitter" src="https://img.shields.io/badge/twitter-2B2A29.svg?style=for-the-badge&logo=twitter&logoColor=1DA1F2"></a>
 </div>
