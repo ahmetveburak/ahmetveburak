@@ -31,6 +31,6 @@ Learning, helping, developing..
       <i></i>
     </summary>
     <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmetveburak&show_icons=true&theme=monokai" alt="Ahmet Burak's GitHub stats"></img>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmetveburak&show_icons=true&theme=monokai" alt="Ahmet Burak's GitHub stats"></img>
     </p>
 </details>
